@@ -29,7 +29,7 @@ This system analyzes student data to:
 ## ⚡ Quick Start
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.13.0
 - Required Python packages
 
 ### Installation
